@@ -11,5 +11,7 @@ local moDiDs = {
     ['VoidOfDuality'] = true,
     ['HANIIMEFACES'] = true,
     ['1862132816'] = true,
+    ['LuvCroa'] = true,
+    ['1902228703'] = true,
 }
 return moDiDs

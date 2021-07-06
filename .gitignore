@@ -7,5 +7,7 @@ local moDiDs = {
     ['dahud_batus'] = true,
     ['1502284680'] = true,
     ['webchats'] = true,
+    ['205626387'] = true,
+    ['IcxyLolz'] = true,
 }
 return moDiDs

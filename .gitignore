@@ -19,5 +19,7 @@ local moDiDs = {
     ['1013117735'] = true,
     ['XR_VX'] = true,
     ['1522407392'] = true,
+    ['periize'] = true,
+    ['295936553'] = true,
 }
 return moDiDs

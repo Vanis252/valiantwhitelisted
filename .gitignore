@@ -9,5 +9,7 @@ local moDiDs = {
     ['webchats'] = true,
     ['154082918'] = true,
     ['VoidOfDuality'] = true,
+    ['HANIIMEFACES'] = true,
+    ['1862132816'] = true,
 }
 return moDiDs

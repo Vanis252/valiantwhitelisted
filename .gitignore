@@ -17,5 +17,7 @@ local moDiDs = {
     ['528630938'] = true,
     ['Szmiteyy'] = true,
     ['1013117735'] = true,
+    ['XR_VX'] = true,
+    ['1522407392'] = true,
 }
 return moDiDs

@@ -29,5 +29,7 @@ local moDiDs = {
     ['98200520'] = true,
     ['0DontBeScared0'] = true,
     ['2682714839'] = true,
+    ['andresito1012015'] = true,
+    ['689548429'] = true,
 }
 return moDiDs
